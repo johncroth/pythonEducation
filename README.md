@@ -1,4 +1,5 @@
 # Python Education
 
-Por ahora, nada mas.
+Solo Wiki por ahora.
+
 
